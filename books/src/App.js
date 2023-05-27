@@ -1,4 +1,5 @@
 import '../src/style/App.css';
+import '../src/style/reset.css'
 import Logo from './Components/Logo';
 
 
