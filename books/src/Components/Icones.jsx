@@ -1,3 +1,5 @@
+import '../style/Icones.css'
+
 import perfil from '../img/perfil.svg';
 import sacola from '../img/sacola.svg';
 
