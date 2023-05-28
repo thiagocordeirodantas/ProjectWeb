@@ -1,6 +1,7 @@
 import logo from '../img/logo.svg';
 import '../style/Logo.css';
 
+
 function Logo(){
     return (
         <div className='logo'>
