@@ -14,7 +14,7 @@ const HeaderContainer = styled.header `
 function Header(){
     return (
         <HeaderContainer>
-            <Logo></Logo>
+            <Logo key={1}></Logo>
             <OpcoesHeader></OpcoesHeader>
             <IconesHeader></IconesHeader>
       </HeaderContainer>
