@@ -1,5 +1,5 @@
-import Header from './Components/Header';
-import Pesquisa from './Components/Pesquisa';
+import Header from './Components/Header/Header';
+import Pesquisa from './Components/Pesquisa/Pesquisa';
 import styled from 'styled-components';
 
 const AppContainer = styled.div `
