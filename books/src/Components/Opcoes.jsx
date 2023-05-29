@@ -1,5 +1,3 @@
-import '../style/Opcoes.css';
-
 import styled from 'styled-components';
 
 const Opcao = styled.li `
